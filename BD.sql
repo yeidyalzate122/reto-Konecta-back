@@ -1,3 +1,6 @@
+
+CREATE DATABASE Konecta;
+
 CREATE TABLE usuario (
     id_usuario SERIAL PRIMARY KEY,
     nombre VARCHAR(50) NOT NULL,
